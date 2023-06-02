@@ -14,6 +14,7 @@ The following is a list:
 - item 3
 
 **Some bold text!**
+*some italics text*
 """
 )
 
